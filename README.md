@@ -12,9 +12,9 @@
 - If you choose option 2, you must first enter the target, the target you will enter must be the name or ip address of the target site.
 - When you enter the ip address, enter 2 port information to check.
 - If the result is positive, it will give you a positive feedback, if the result is negative, it will give you a negative feedback.
-- if you choose option 3 you will exit the program.
+- if you choose option 3 you will exit the program. 
 
-![](https://media.discordapp.net/attachments/834343149773914173/903376565818261584/Ekran_Alnts.PNG?width=899&height=468)
+![screenshot](https://media.discordapp.net/attachments/834343149773914173/903376565818261584/Ekran_Alnts.PNG?width=899&height=468)
 
 # Links 
 - To download the Python socket library : https://pypi.org/project/sockets/
